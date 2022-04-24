@@ -1,0 +1,7 @@
+#Python and default config files
+.vscode/
+.__py_cache__/**
+**/__pycache__/
+.venv/
+cache/
+.env
